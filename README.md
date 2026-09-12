@@ -198,6 +198,13 @@ It demonstrates how an LLM can:
 - Use the returned data
 - Generate a natural-language response
 
+  ## Live Demo
+
+[AI Gold & Silver Assistant]
+
+https://gold-silver-rate-chatbot-adphts7ojfgzaurycsbswg.streamlit.app/
+
+
 ## Future Enhancements
 
 The application can be further improved by adding:
